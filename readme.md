@@ -1,6 +1,7 @@
 # Adivina el Número con React :dragon_face:
 
->  El objetivo del juego es adivinar un número aleatorio entre 1 y 100Este es un juego simple creado con React. El objetivo del juego es adivinar un número aleatorio entre 1 y 100. El jugador tiene 10 oportunidades para adivinar el número correcto. Después de cada intento, se le dará una pista si su respuesta es demasiado alta o demasiado baja. Si el jugador no puede adivinar el número correcto en 10 intentos, pierde. Si el jugador adivina correctamente, gana.
+>  El objetivo del juego es adivinar un número aleatorio entre 1 y 100.
+Este es un juego simple creado con React. El objetivo del juego es adivinar un número aleatorio entre 1 y 100. El jugador tiene 10 oportunidades para adivinar el número correcto. Después de cada intento, se le dará una pista si su respuesta es demasiado alta o demasiado baja. Si el jugador no puede adivinar el número correcto en 10 intentos, pierde. Si el jugador adivina correctamente, gana.
 
 ## Cómo jugar 🎮
 
